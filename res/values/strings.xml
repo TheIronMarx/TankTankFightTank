@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="acknowledged">Acknowledged</string>
+    <string name="app_name">TankTankFightTank</string>
+    <string name="cancel">Cancel</string>
+    <string name="end_turn">End Turn</string>
+    <string name="fire">Fire</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hit_points">Hit Points</string>
+    <string name="menu_settings">Settings</string>
+    <string name="move">Move</string>
+    <string name="pick_a_game">Pick a Game!</string>
+    <string name="pick_game">This one!</string>
+    <string name="title_activity_game_engine">TTFT</string>
+	<string name="victory">Victory</string>
+
+</resources>

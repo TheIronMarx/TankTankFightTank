@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:background="@drawable/bg"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/buttonPlayGame"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Play Game" />
+
+        <Button
+            android:id="@+id/buttonSettings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Settings" />
+
+    </LinearLayout>
